@@ -1,0 +1,66 @@
+/****************************tag selectors********************************/
+body {
+  background-image: url("C:/Users/bobo1/Desktop/WEBDEVELOPMENT/GITHUB/front end dev challenges/profile-card-component-main/profile-card-component-main/images/bg-pattern-top.svg");
+  background-repeat: no-repeat;
+  background-color: hsl(185, 75%, 39%);
+  background-image: url("C:/Users/bobo1/Desktop/WEBDEVELOPMENT/GITHUB/front end dev challenges/profile-card-component-main/profile-card-component-main/images/bg-pattern-bottom.svg");
+}
+span {
+  color: hsl(227, 10%, 46%);
+}
+hr {
+  margin: 0;
+  color: hsl(227, 10%, 46%);
+}
+/***************************class selectors******************************/
+.card {
+  margin: 5% 33%;
+  border: 10px;
+  width: 330px;
+  box-shadow: 10px 10px 100px #ccc;
+}
+.card-body {
+  padding: 0;
+  text-align: center;
+}
+.bg-img-top-div {
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.img-victor {
+  width: 100px;
+  border-radius: 100%;
+  position: absolute;
+  left: 125px;
+  top: 90px;
+  border: 05px solid; color: #fff;
+}
+.top-txt {
+  text-align: center;
+  padding: 60px 60px 30px 60px;
+}
+.txt-head {
+  font-size: 1.3rem;
+}
+.row {
+  margin: 10px 20px 10px 20px;
+}
+.stats-number {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+.stats-name {
+  font-size: 0.7rem;
+  letter-spacing: 3px;
+  color: hsl(227, 10%, 46%);
+}
+.attribution {
+ position: fixed;
+bottom: 0;
+}
+/***************************id selectors*********************************/
+
+/***************************images**************************************/
+
+/***************************@media queries******************************/
